@@ -11,4 +11,4 @@ tags: [blog]     # TAG names should always be lowercase
 > - [parse down](https://parsedown.org)  
 > ![1번](/assets/img/blog/201209/1.png)  
 
-### 셍각중 🧐
+### 생각중 🧐
