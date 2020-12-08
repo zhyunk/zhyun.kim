@@ -1,5 +1,5 @@
 ---
-title: 개발에 사용하고싶은 소스 검색 & 기능 팀색
+title: 개발에 사용하고싶은 소스 검색 & 기능 탐색
 date: 2020-12-09 01:51:30 
 categories: [blog, develop]
 tags: [blog]     # TAG names should always be lowercase
